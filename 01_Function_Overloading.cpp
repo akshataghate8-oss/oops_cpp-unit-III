@@ -18,9 +18,9 @@ int add(int first, int second, int third)
 
 int main()
 {
-    cout << "Sum of two integers: " << add(10, 20) << endl;
-    cout << "Sum of two doubles: " << add(2.5, 3.7) << endl;
-    cout << "Sum of three integers: " << add(10, 20, 30) << endl;
+    cout << "Sum of two integers: " << add(15, 25) << endl;
+    cout << "Sum of two doubles: " << add(4.5, 2.8) << endl;
+    cout << "Sum of three integers: " << add(15, 25, 35) << endl;
 
     return 0;
 }
