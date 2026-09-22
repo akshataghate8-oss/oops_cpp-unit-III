@@ -19,9 +19,9 @@ double calculateArea(double radius)
 
 int main()
 {
-    cout << "Square Area: " << calculateArea(5) << endl;
-    cout << "Rectangle Area: " << calculateArea(6, 4) << endl;
-    cout << "Circle Area: " << calculateArea(2.0) << endl;
+    cout << "Square Area: " << calculateArea(7) << endl;
+    cout << "Rectangle Area: " << calculateArea(8, 5) << endl;
+    cout << "Circle Area: " << calculateArea(3.0) << endl;
 
     return 0;
 }
